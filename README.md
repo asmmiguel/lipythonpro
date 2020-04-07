@@ -1,7 +1,9 @@
 # libythonpro
 Módulo para exemplificar a construção de projetos Python
 
-Link do curso [Python Pro](https://www.python.pro.br/)
+Link do curso [Python Pro](https://www.python.pro.br/)  
+[![Build Status](https://travis-ci.org/asmmiguel/libythonpro.svg?branch=master)](https://travis-ci.org/asmmiguel/libythonpro)
+
 
 Python 3.6.5
 
