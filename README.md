@@ -9,7 +9,7 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 
 [![Python 3](https://pyup.io/repos/github/asmmiguel/libythonpro/python-3-shield.svg)](https://pyup.io/repos/github/asmmiguel/libythonpro/)
 
-[![codecov](https://codecov.io/gh/asmmiguel/pythonbirds/branch/simples/graph/badge.svg)](https://codecov.io/gh/asmmiguel/pythonbirds)
+[![codecov](https://codecov.io/gh/asmmiguel/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/asmmiguel/libpythonpro)
 
 Python 3.6.5
 
