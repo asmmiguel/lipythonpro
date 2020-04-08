@@ -5,9 +5,9 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/asmmiguel/libythonpro.svg?branch=master)](https://travis-ci.org/asmmiguel/libythonpro)
 
-[![Updates](https://pyup.io/repos/github/asmmiguel/lipythonpro/shield.svg)](https://pyup.io/repos/github/asmmiguel/lipythonpro/)
+[![Updates](https://pyup.io/repos/github/asmmiguel/libythonpro/shield.svg)](https://pyup.io/repos/github/asmmiguel/libythonpro/)
 
-[![Python 3](https://pyup.io/repos/github/asmmiguel/lipythonpro/python-3-shield.svg)](https://pyup.io/repos/github/asmmiguel/lipythonpro/)
+[![Python 3](https://pyup.io/repos/github/asmmiguel/libythonpro/python-3-shield.svg)](https://pyup.io/repos/github/asmmiguel/libythonpro/)
 
 Python 3.6.5
 
