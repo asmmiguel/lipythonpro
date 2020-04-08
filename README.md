@@ -14,7 +14,7 @@ Python 3.6.5
 Para instalar:  
 ```console  
 python3 -m venv .venv   
-spurce .venv/bin/activate   
+source .venv/bin/activate   
 pip install -r requirements-dev.txt     
 ```  
 Para conferir a qualidade do código:    
