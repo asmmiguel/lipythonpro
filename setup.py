@@ -49,6 +49,7 @@ def find_package_data(
     purposes).
     Note patterns use wildcards, or can be exact paths (including
     leading ``./``), and all searching is case-insensitive.
+    :type exclude_directories: object
     """
     out = {}
     stack = [(convert_path(where), "", package, only_in_packages)]
@@ -98,7 +99,7 @@ PACKAGE = "libpythonpro"
 NAME = "libpythonproteste"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Samir"
-AUTHOR_EMAIL = " "
+AUTHOR_EMAIL = "asmmiguel@gmail.com"
 URL = "https://github.com/asmmiguel/libythonpro"
 VERSION = __import__(PACKAGE).__version__
 
@@ -110,7 +111,7 @@ setup(
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license=read('LICENSE'),
+    license="GNU AFFERO GENERAL PUBLIC LICENSE",
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),
