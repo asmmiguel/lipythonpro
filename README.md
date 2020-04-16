@@ -3,7 +3,7 @@ Módulo para exemplificar a construção de projetos Python
 
 Link do curso [Python Pro](https://www.python.pro.br/)      
 
-[![Build Status](https://travis-ci.org/asmmiguel/libythonpro.svg?branch=master)](https://travis-ci.org/asmmiguel/libythonpro)
+[![Build Status](https://travis-ci.org/asmmiguel/libpythonpro.svg?branch=master)](https://travis-ci.org/asmmiguel/libpythonpro)
 
 [![Updates](https://pyup.io/repos/github/asmmiguel/libpythonpro/shield.svg)](https://pyup.io/repos/github/asmmiguel/libpythonpro/)
 
